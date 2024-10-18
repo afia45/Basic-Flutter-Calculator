@@ -20,8 +20,10 @@ The Calculator App displays a visually attractive screen to perform basic operat
 Flutter and Dart
 ## Screenshots (Chrome Extension: Mobile Emulator)
 
-1. ![Screenshot](/assets/ss1.png)
-2. ![Screenshot](/assets/ss2.png)
+1.
+![Screenshot](/assets/ss1.png)
+2.
+![Screenshot](/assets/ss2.png)
 
 
 ## Limitations
