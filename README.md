@@ -11,18 +11,11 @@ The Calculator App displays a visually attractive screen to perform basic operat
 - Division and
 - Clear
 
-
-
-
-
-
 ## Tools and Languages
 Flutter and Dart
 ## Screenshots (Chrome Extension: Mobile Emulator)
 
-1.
 ![Screenshot](/assets/ss1.png)
-2.
 ![Screenshot](/assets/ss2.png)
 
 
