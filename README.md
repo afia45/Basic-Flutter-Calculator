@@ -1,16 +1,30 @@
-# calculator
 
-A new Flutter project.
+# Basic Calculator in Flutter
 
-## Getting Started
+This repository/project is done in class by EDGE Digital Skills Training Program, Batch CBI-018 under our Instructor Noor Mohammad Anik Sir.
 
-This project is a starting point for a Flutter application.
+The Calculator App displays a visually attractive screen to perform basic operations between two operands, the following operations can be done:
 
-A few resources to get you started if this is your first Flutter project:
+- Addition
+- Subtraction
+- Multiplication
+- Division and
+- Clear
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## Tools and Languages
+Flutter and Dart
+## Screenshots (Chrome Extension: Mobile Emulator)
+
+1. ![Screenshot](/assets/ss1.png)
+2. ![Screenshot](/assets/ss2.png)
+
+
+## Limitations
+
+- This calculator is basic and therefore can not perform operations between more than two operands.
+- It does not display history.
